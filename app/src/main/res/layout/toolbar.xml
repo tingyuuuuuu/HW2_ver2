@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFDD78"
+    android:elevation="4dp"
+    android:textAlignment="center"
+    android:textDirection="firstStrongRtl"
+    app:logo="@drawable/baseline_bookmark_check_24"
+    app:title="預約表"
+    app:titleMarginStart="30dp"
+    app:titleTextAppearance="@style/TextAppearance.AppCompat.Large"
+    app:titleTextColor="#FFF">
+
+</androidx.appcompat.widget.Toolbar>
